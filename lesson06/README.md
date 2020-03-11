@@ -1,6 +1,7 @@
 # Lesson 06
+### Unit Testing and Advanced Argument Passing
 
-## Labs & Exercises
+## Assignments & Exercises
 * Mailroom, Part 4
 
 ## Learning Objectives
@@ -18,7 +19,5 @@
 [Ned Batchelder's intro to testing presentation](http://nedbatchelder.com/text/test0.html)
 [Arguments and Parameters](http://stupidpythonideas.blogspot.com/2013/08/arguments-and-parameters.html)
 [&ast;args and &ast;&ast;kwargs in python explained](https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/)
-
-### Other
 [Unit testing](https://uwpce-pythoncert.github.io/PythonCertDevel/exercises/unit_testing.html)
 [Args and Kwargs Lab](https://uwpce-pythoncert.github.io/PythonCertDevel/exercises/args_kwargs_lab.html)

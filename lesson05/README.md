@@ -1,6 +1,7 @@
 # Lesson 05
+### Execptions and Modules
 
-## Labs & Exercises
+## Assignments & Exercises
 * Exceptions Exercise
 * Mailroom, Part 3
 
@@ -11,12 +12,12 @@
 4. import third party modules in various ways
 
 ### Required Reading
-[Style and Naming](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/NamingThings.html)
-[Code Structure, Modules, and Namespaces](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Modules.html)
-[Documentation](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Documentation.html#documentation)
-[Exception Handling](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Exceptions.html#exceptions)
-[Comprehensions](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Comprehensions.html)
+* [Style and Naming](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/NamingThings.html)
+* [Code Structure, Modules, and Namespaces](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Modules.html)
+* [Documentation](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Documentation.html#documentation)
+* [Exception Handling](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Exceptions.html#exceptions)
+* [Comprehensions](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Comprehensions.html)
 
 ### Supplemental Reading
-[Overview of Python Collections Module](https://pymotw.com/3/collections/)
-[Python Collections Module](https://docs.python.org/3/library/collections.html)
+* [Overview of Python Collections Module](https://pymotw.com/3/collections/)
+* [Python Collections Module](https://docs.python.org/3/library/collections.html)
